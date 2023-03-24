@@ -1,0 +1,129 @@
+.b1{
+	background-image:url("..//image/emg.png");
+	height:100px;
+	width:100px;
+	border:7px solid gray;
+}
+.b2{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid red;
+	background-repeat:repeat-x;
+}
+.b3{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid green;
+	background-repeat:repeat-y;
+}
+.b4{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid yellow;
+	background-repeat:no-repeat;
+}
+.b5{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid indigo;
+	background-repeat:no-repeat;
+	background-position:left top;
+} 
+.b6{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid violet;
+	background-repeat:no-repeat;
+	background-position:left center;
+}
+.b7{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid indigo;
+	background-repeat:no-repeat;
+	background-position:left bottom;
+}
+.b8{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid indigo;
+	background-repeat:no-repeat;
+	background-position:center top;
+}
+.b9{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid violet;
+	background-repeat:no-repeat;
+	background-position:center center;
+}
+.b10{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid indigo;
+	background-repeat:no-repeat;
+	background-position:center bottom;
+}
+.b11{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid indigo;
+	background-repeat:no-repeat;
+	background-position:right top;
+}
+.b12{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid violet;
+	background-repeat:no-repeat;
+	background-position:right center;
+}
+.b13{
+	background-image:url(..//image/emg.png);
+	height:100px;
+	width:100px;
+	border:7px solid indigo;
+	background-repeat:no-repeat;
+	background-position:right bottom;
+}
+.b14{
+	background-image:url(..//image/emg.png);
+	height:500px;
+	width:500px;
+	border:7px solid indigo;
+	background-repeat:repeat-x;
+	background-position:center center;
+	background-attachment:fixed;
+}
+.b15{
+	background-image:url(..//image/emg.png);
+	height:500px;
+	width:500px;
+	border:7px solid indigo;
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-attachment:scroll;
+}
+.b16{
+	background:red url(..//image/emg.png) no-repeat scroll center center;
+	height:500px;
+	width:500px;
+	border:7px solid violet;
+}
+.b17{
+	background-image:url(..//image/uchiha.jpg);
+	height:500px;
+	width:500px;
+	background-size:cover;
+}
